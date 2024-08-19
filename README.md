@@ -1,7 +1,5 @@
-## Olá 👋
 
-<!--
-**izarisczik/Izarisczik** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
+Olá, sou a Izadora! 
 
 - 🔭 Atualmente estou trabalhando em projeto do vscode e github
 - 🌱 Atualmente estou tentando usar o githun
