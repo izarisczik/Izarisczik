@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá 👋
 
 <!--
-**izarisczik/Izarisczik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**izarisczik/Izarisczik** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando em projeto do vscode e github
+- 🌱 Atualmente estou tentando usar o githun
+- 👯 Procuro melhor em java script
+- 🤔 Estou procurando ajudar os meus amigos
+- 💬 Pergunte-me sobre o github
+- 📫 Como entrar em contato comigo: izadora.risczik.oliveira@escola.pr.gov.br
+- 😄 Pronomes: ela/dela
+- ⚡ Curiosidade:Tenho 15 anos, sou estudante do cepb!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
